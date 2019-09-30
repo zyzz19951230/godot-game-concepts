@@ -1,5 +1,6 @@
 .DS_Store
 .import/
+.mono/
 .vscode/
 .mono/
 logs/
