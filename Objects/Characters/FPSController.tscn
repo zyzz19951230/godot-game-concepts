@@ -1,6 +1,7 @@
 [gd_scene load_steps=2 format=2]
 
-[ext_resource path="res://Scripts/Character/FPSController.cs" type="Script" id=1]
+[ext_resource path="res://Scripts/Characters/FPSController.cs" type="Script" id=1]
+
 
 [node name="FPSController" type="Spatial"]
 script = ExtResource( 1 )

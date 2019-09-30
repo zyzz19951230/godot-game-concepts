@@ -50,8 +50,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Scripts\Character\FPSController.cs" />
-    <Compile Include="Scripts\Character\ThirdPersonController.cs" />
+    <Compile Include="Scripts\Characters\FPSController.cs" />
+    <Compile Include="Scripts\Characters\ThirdPersonController.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
